@@ -1,0 +1,7 @@
+Feedback
+Good job Pontus, you have created functions to process the data correctly and it works for both files. It's also good that you improve your codes with list comprehension. 
+
+Tips:
+* further simplify your codes with string method, replace(), when creating dna_list
+* further simplify your codes by creating the list of dictionary, dna_list_counted, directly, instead of using a loop
+* use subplots to output multiple plots
